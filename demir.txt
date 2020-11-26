@@ -1,1 +1,2 @@
-My new file
+My new project file.
+
